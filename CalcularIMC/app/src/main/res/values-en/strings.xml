@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculate BMI </string>
+
+    <string name="texto_peso">Weight</string>
+    <string name="texto_altura">Height</string>
+    <string name="boton_calcular">Calculate BMI</string>
+
+    <string name="boton_volver">Back</string>
+    <string name="texto_IMC">Your BMI Is</string>
+    <string name="texto_valor_IMC">0</string>
+    <string name="texto_calificacion">Qualification</string>
+
+
+</resources>
